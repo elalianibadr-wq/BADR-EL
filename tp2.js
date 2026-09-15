@@ -1,2 +1,2 @@
-import {students} from "./tp.js"
-console.log(students)
+import {students} from "./tp.js";
+console.log(students);

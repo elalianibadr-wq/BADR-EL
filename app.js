@@ -3,4 +3,4 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap';
 
 export const etudiantList=()=>{
-    return etudiants;
+    return etudiants ;
